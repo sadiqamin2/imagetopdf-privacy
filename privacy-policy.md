@@ -49,4 +49,4 @@ When updates are made, the Last Updated date at the top of this policy will be r
 For privacy-related questions, contact:
 
 Developer: Image to PDF Team  
-Email: support@simpletools.app
+Email: sadiq.amin88@gmail.com
